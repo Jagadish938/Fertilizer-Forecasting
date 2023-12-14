@@ -7,7 +7,7 @@ inputs of crop type, soil type and the automated collection of temperature,
 humidity, and soil moisture data using IoT sensors connected to an Arduino 
 device, providing a convenient and efficient solution for farmers.
 
-Description of the project
+Description of the project:
 The Smart Farming System project emerges as a pivotal initiative designed to 
 revolutionize agricultural practices on a broader scale, transcending regional 
 boundaries and catering to the needs of farmers worldwide. Recognizing the 
